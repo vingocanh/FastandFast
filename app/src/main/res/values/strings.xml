@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Fast and Fast</string>
+    <string name="action_settings">Settings</string>
+    <string name="interstitial">ca-app-pub-8464859448253240/9034665267</string>
+    <string name="app_banner"> ca-app-pub-8464859448253240/1539318627</string>
+    <string name="short_not" >Short</string>
+    <string name="large_not" >Large</string>
+    <string name="title_notefication" >Performnace Issue</string>
+    <string name="detail_notification" >Phone is Performing Slow due to Large amount of junk files.</string>
+</resources>
